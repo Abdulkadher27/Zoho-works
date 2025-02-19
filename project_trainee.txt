@@ -1,0 +1,137 @@
+WEEK 1
+
+	DAY 1 17/12/2024
+		1. Induction Program
+		2. Applications of Zoho
+		3. List of Hardware of Laptop
+		4. Some Common questions asked in interview
+		5. Why Python is slow compared to C++
+	
+	DAY 2 18/12/2024
+		1. Alternative of all linux commands if possible
+		2. Git Pull Request
+		3. Streamlit Application
+	
+	DAY 3 19/12/2024
+		1. Linux vs Ubuntu
+		2. Nano vs Sudo
+		3. Streamlit Application
+		4. Why link in streamlit Title 
+		5. What is Kernel
+		6. Alternative for Session - State
+		7. Python Slow (GIL)
+		
+	DAY 4 20/12/20204
+		1. Error in vs code in streamlit app
+		2. Python streamlit file becomes web based application in website
+
+WEEK 3
+
+	DAY 2 31/12/2024
+		1. Threads
+		2. Process
+		3. Coroutines
+		4. Locks
+		5. Memory management
+	DAY 5 03/01/2025
+		1. Alternaitve for sleep
+		2. What stops python from upgrate
+		3. Threads vs Process
+		4. When Process should be created and when Thread should be created ?
+		5. Thread vs Sequential
+		
+WEEK 4 
+	DAY 1 06/01/2024
+		1. Why python library does not support multi-thread
+		2. Streamlit Server
+		3. Why thread has seperate Stack, pc etc. why not is uses the process stack ?
+	DAY 2 07/01/2025
+	 	1. Coroutines
+	DAY 3 TO DAY 5 08/01/2025 - 10/01/2025
+		1. Coroutines in python documentation
+		
+WWEK 5
+	DAY 1 13/01/2025
+		1. Coroutines
+		2. Awaitables
+		3. Task, Group, Gather
+		4. Cancellation of tasks, Group tasks
+		5. Sleep
+		6. Eager task factory
+		7. Timeouts
+		8. WAiting Primitives
+		9. Threads in Coroutines
+		
+	DAY 3 15/01/2025
+		1. Memory Management
+		2. Contiguous vs Non Contiguous
+		3. Paging
+		
+	DAY 4 16/01/2025
+		1. Swapping of pages
+		2. IA - 32 vs x86_64
+		
+	DAY 5 17/01/2025
+		1. Demand Paging
+		2. Copy on Write
+		3. Page Replacement Algorithms
+		4. Allocation of Frames
+		
+WEEK 6
+	DAY 1 20/01/2025
+		1. Thrashing
+		2. Memory Compression
+		3. Allocation of Kernel memory
+		4. Memory management in Linux
+		5. Memory mapping in files system 	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
